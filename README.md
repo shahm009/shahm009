@@ -46,7 +46,7 @@ I'm a passionate **Computer Science & Engineering student** with a love for codi
 ---
 
 # 🔗 **Let's Connect**
-- 🌐 LinkedIn: [Shah Mehrab Hossain](#https://www.linkedin.com/in/shah-mehrab-hossain-a6a1691ba/)
+- 🌐 LinkedIn: (https://www.linkedin.com/in/shah-mehrab-hossain-a6a1691ba)
 - 🛒 Check out my tech shop: [Pulsepointbd](#)
 - 📧 Email me: shahmehrab009@gmail.com
 
