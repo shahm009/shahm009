@@ -13,23 +13,30 @@ Here's the "Skills & Expertise" section with all icons arranged in a single line
 
 ---
 
-### 🛠️ **Skills & Expertise**
-#### **Programming Languages:**
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)  
-#### **Embedded Systems:**
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)  
-#### **Computer Vision & ML:**
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/-MediaPipe-007ACC?style=flat-square&logo=google&logoColor=white)  
-#### **Design & CAD Tools:**
-![Fusion 360](https://img.shields.io/badge/-Fusion%20360-ff6c37?style=flat-square&logo=autodesk&logoColor=white) ![Solidworks](https://img.shields.io/badge/-SolidWorks-FF1C0A?style=flat-square&logo=dassault-systèmes&logoColor=white) ![Eagle](https://img.shields.io/badge/-Eagle-CC0000?style=flat-square&logo=autodesk&logoColor=white) ![EasyEDA](https://img.shields.io/badge/-EasyEDA-00a1d6?style=flat-square&logo=easyeda&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)  
-#### **Game Development:**
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)  
-#### **Version Control:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+Got it! Here’s the updated "Skills & Expertise" section with additional skills listed:
 
 ---
 
-Let me know if this is what you were looking for!
+### 🛠️ **Skills & Expertise**
+#### **Programming Languages:**
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)  
+
+#### **Embedded Systems:**
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-3C99C9?style=flat-square&logo=espressif&logoColor=white) ![STM32](https://img.shields.io/badge/-STM32-0072B8?style=flat-square&logo=stmicroelectronics&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-00A2E3?style=flat-square&logo=freertos&logoColor=white) ![MicroPython](https://img.shields.io/badge/-MicroPython-0076A8?style=flat-square&logo=python&logoColor=white)  
+
+#### **Computer Vision & ML:**
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/-MediaPipe-007ACC?style=flat-square&logo=google&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F20?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)  
+
+#### **Design & CAD Tools:**
+![Fusion 360](https://img.shields.io/badge/-Fusion%20360-ff6c37?style=flat-square&logo=autodesk&logoColor=white) ![Solidworks](https://img.shields.io/badge/-SolidWorks-FF1C0A?style=flat-square&logo=dassault-systèmes&logoColor=white) ![Eagle](https://img.shields.io/badge/-Eagle-CC0000?style=flat-square&logo=autodesk&logoColor=white) ![EasyEDA](https://img.shields.io/badge/-EasyEDA-00a1d6?style=flat-square&logo=easyeda&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)  
+
+#### **Game Development:**
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)  
+
+#### **Version Control:**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)  
+
+---
 
 ### 🏅 **Certifications & Achievements**
 - 🏆 **University Rover Challenge (URC)**: 2022, 2023, 2024.
