@@ -4,8 +4,15 @@
 
 🎓 **CSE Student** | 💻 **Tech Enthusiast** | 🚀 **Rover Developer**  
 
+
 ### 💡 About Me  
-I'm a passionate **Computer Science & Engineering student** with a love for coding and creating innovative projects. My skills span a variety of languages and technologies, including **C**, **C++**, **Python**, **Java**, **JavaScript**, **HTML**, and **CSS**. I enjoy working on **IoT**, **embedded systems**, and **computer vision** projects, focusing on building smart, real-world solutions.
+I'm **Shah Mehrab Hossain**, a passionate **Computer Science & Engineering student** with a love for coding and innovation. I thrive on creating projects that blend technology and creativity.
+
+In my free time, I enjoy exploring new technologies, tinkering with hardware, and working on **IoT** and **embedded systems** projects. 
+
+When I’m not coding, you can find me traveling to new places and seeking thrilling adventures, whether it’s hiking in the mountains, discovering hidden gems in unfamiliar cities, or diving into the ocean’s depths. I also love indulging in sci-fi movies and capturing stunning moments through photography.
+
+I believe in the power of technology to solve real-world problems, and I'm excited to contribute to projects that make a difference!
 
 ---
 
