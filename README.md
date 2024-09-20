@@ -9,19 +9,33 @@ I'm a passionate **Computer Science & Engineering student** with a love for codi
 
 ### 🛠️ **Skills & Expertise**
 - **Languages**:  
-  ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+  ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-- **Technologies & Tools**:  
-  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi) 
-  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)  
-  ![MediaPipe](https://img.shields.io/badge/-MediaPipe-007ACC?style=flat-square&logo=google&logoColor=white) 
-  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
-  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+Here’s the updated section with the additional technologies and tools you requested:
+
+---
+
+### 🛠️ **Technologies & Tools**:
+  
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi) 
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)  
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-007ACC?style=flat-square&logo=google&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)  
+![Fusion 360](https://img.shields.io/badge/-Fusion%20360-ff6c37?style=flat-square&logo=autodesk&logoColor=white)
+![Solidworks](https://img.shields.io/badge/-SolidWorks-FF1C0A?style=flat-square&logo=dassault-systèmes&logoColor=white)  
+![Eagle](https://img.shields.io/badge/-Eagle-CC0000?style=flat-square&logo=autodesk&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/-EasyEDA-00a1d6?style=flat-square&logo=easyeda&logoColor=white)  
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
