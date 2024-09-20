@@ -9,14 +9,6 @@ I'm a passionate **Computer Science & Engineering student** with a love for codi
 
 ---
 
-Here's the "Skills & Expertise" section with all icons arranged in a single line:
-
----
-
-Got it! Here’s the updated "Skills & Expertise" section with additional skills listed:
-
----
-
 ### 🛠️ **Skills & Expertise**
 #### **Programming Languages:**
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)  
