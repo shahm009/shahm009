@@ -17,7 +17,7 @@ I'm a passionate **Computer Science & Engineering student** with a love for codi
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-3C99C9?style=flat-square&logo=espressif&logoColor=white) ![STM32](https://img.shields.io/badge/-STM32-0072B8?style=flat-square&logo=stmicroelectronics&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-00A2E3?style=flat-square&logo=freertos&logoColor=white) ![MicroPython](https://img.shields.io/badge/-MicroPython-0076A8?style=flat-square&logo=python&logoColor=white)  
 
 #### **Computer Vision & ML:**
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/-MediaPipe-007ACC?style=flat-square&logo=google&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F20?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/-MediaPipe-007ACC?style=flat-square&logo=google&logoColor=white) 
 
 #### **Design & CAD Tools:**
 ![Fusion 360](https://img.shields.io/badge/-Fusion%20360-ff6c37?style=flat-square&logo=autodesk&logoColor=white) ![Solidworks](https://img.shields.io/badge/-SolidWorks-FF1C0A?style=flat-square&logo=dassault-systèmes&logoColor=white) ![Eagle](https://img.shields.io/badge/-Eagle-CC0000?style=flat-square&logo=autodesk&logoColor=white) ![EasyEDA](https://img.shields.io/badge/-EasyEDA-00a1d6?style=flat-square&logo=easyeda&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)  
@@ -47,6 +47,4 @@ I'm a passionate **Computer Science & Engineering student** with a love for codi
 
 # 🔗 **Let's Connect**
 - 🌐 LinkedIn: (https://www.linkedin.com/in/shah-mehrab-hossain-a6a1691ba)
-- 🛒 Check out my tech shop: [Pulsepointbd](#)
-- 📧 Email me: shahmehrab009@gmail.com
 
