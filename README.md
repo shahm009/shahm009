@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shah%20Mehrab%20Hossain-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shah-mehrab-hossain-a6a1691ba)
-[![GitHub](https://img.shields.io/badge/GitHub-shahmehrab009-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/shahmehrab009)
+[![GitHub](https://img.shields.io/badge/GitHub-shahm009-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/shahm009)
 
 </div>
 
