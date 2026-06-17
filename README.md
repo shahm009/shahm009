@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm **Shah Mehrab Hossain**
 
-### 🎓 CSE Student | 💻 Full-Stack Developer | 🤖 Rover & Embedded Systems Developer | 🚀 Tech Enthusiast
+### 🎓 CSE Student | 💻 Full-Stack Developer | 🤖 Robotics & Embedded Systems Developer | 🚀 Tech Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Web+Developer;IoT+%26+Embedded+Systems+Enthusiast;Mars+Rover+Developer;Building+Real-World+Tech+Solutions" alt="Typing SVG" />
 
