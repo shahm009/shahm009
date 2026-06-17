@@ -67,10 +67,6 @@ I actively explore entrepreneurship through technology-driven ventures and produ
 
 Technology-focused e-commerce platform providing robotics, embedded systems, electronics, and maker tools.
 
-#### 🚀 InnoAxis
-
-Innovation-focused platform dedicated to engineering solutions, robotics development, software products, and emerging technologies.
-
 ---
 
 # 🧠 What I Do
