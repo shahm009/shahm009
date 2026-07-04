@@ -4,7 +4,7 @@
 
 ### 🚀 Entrepreneur | ⚡ Embedded Systems Designer  |  💻 Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Computer+Science+%26+Engineering+Student;Entrepreneur+%26;Full-Stack+Developer;Robotics+%26+Embedded+Systems+Engineer;IoT+%26+Automation+Enthusiast;Building+Real-World+Technology+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Computer+Science+%26+Engineering+Student;Entrepreneur;Full-Stack+Developer;Robotics+%26+Embedded+Systems+Engineer;IoT+%26+Automation+Enthusiast" alt="Typing SVG" />
 
 <br>
 
