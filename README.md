@@ -10,6 +10,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahm009)
 ![Profile Views](https://komarev.com/ghpvc/?username=shahm009&color=6C63FF&style=for-the-badge&label=Profile+Views)
 
+<br>
+
+**[About](#about-me)** &nbsp;·&nbsp; **[Robotics](#competitive-robotics)** &nbsp;·&nbsp; **[Projects](#featured-projects)** &nbsp;·&nbsp; **[Tech Stack](#tech-stack)** &nbsp;·&nbsp; **[Stats](#github-stats)** &nbsp;·&nbsp; **[Contact](#lets-connect)**
+
 </div>
 
 <br>
@@ -44,6 +48,42 @@ Co-Team Lead | Electrical Team Lead
 </table>
 
 **Core focus:** rover electronics · autonomous navigation · sensor fusion · embedded control systems · PCB design & hardware prototyping
+
+<br>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🛰️ Mars Rover Electronics**
+Power distribution, motor control, and sensor integration for a competition rover, built as Electrical Team Lead across three URC cycles.
+`Embedded` `PCB Design` `Sensor Fusion`
+
+</td>
+<td width="33%" valign="top">
+
+**⚡ PulsepointBD**
+E-commerce platform for robotics parts, embedded systems, and maker tools — built end-to-end from storefront to backend.
+`React` `Node.js` `MongoDB`
+
+</td>
+<td width="33%" valign="top">
+
+**🤖 Autonomous Navigation Stack**
+Sensor fusion and navigation logic for autonomous rover traversal in unstructured terrain.
+`Python` `Computer Vision` `Robotics`
+
+</td>
+</tr>
+</table>
+
+<div align="right">
+
+*Add your repo links here — replace with your top 3-6 pinned projects for maximum impact.*
+
+</div>
 
 <br>
 
@@ -100,6 +140,18 @@ Co-Team Lead | Electrical Team Lead
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=shahm009&theme=tokyonight&hide_border=true" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahm009&theme=tokyo-night&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=shahm009&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+> *"Building technology that creates real-world impact — one system at a time."*
 
 </div>
 
