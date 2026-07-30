@@ -29,14 +29,14 @@ Computer Science & Engineering student working at the intersection of **robotics
 <td width="50%" valign="top">
 
 **University Rover Challenge (URC)**
-Electrical Team Lead
+Co-Team Lead | Electrical Team Lead
 `2022` · `2023` · `2024`
 
 </td>
 <td width="50%" valign="top">
 
 **Anatolian Rover Challenge (aRC)**
-Team Member
+Co-Team Lead | Electrical Team Lead
 `2022`
 
 </td>
