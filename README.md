@@ -67,6 +67,9 @@ Co-Team Lead | Electrical Team Lead
 <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square"/>
 <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
 <img src="https://img.shields.io/badge/FreeRTOS-00A2E3?style=flat-square"/>
+<img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gazebo-FF6600?style=flat-square"/>
+<img src="https://img.shields.io/badge/MAVLink-005571?style=flat-square"/>
 </td></tr>
 <tr><td><b>Web Development</b></td><td>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
