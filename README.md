@@ -12,7 +12,7 @@
 
 <br>
 
-**[About](#about-me)** &nbsp;·&nbsp; **[Robotics](#competitive-robotics)** &nbsp;·&nbsp; **[Projects](#featured-projects)** &nbsp;·&nbsp; **[Tech Stack](#tech-stack)** &nbsp;·&nbsp; **[Stats](#github-stats)** &nbsp;·&nbsp; **[Contact](#lets-connect)**
+**[About](#about-me)** &nbsp;·&nbsp; **[Robotics](#competitive-robotics)** &nbsp;·&nbsp; **[Tech Stack](#tech-stack)** &nbsp;·&nbsp; **[Stats](#github-stats)** &nbsp;·&nbsp; **[Contact](#lets-connect)**
 
 </div>
 
@@ -48,42 +48,6 @@ Co-Team Lead | Electrical Team Lead
 </table>
 
 **Core focus:** rover electronics · autonomous navigation · sensor fusion · embedded control systems · PCB design & hardware prototyping
-
-<br>
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**🛰️ Mars Rover Electronics**
-Power distribution, motor control, and sensor integration for a competition rover, built as Electrical Team Lead across three URC cycles.
-`Embedded` `PCB Design` `Sensor Fusion`
-
-</td>
-<td width="33%" valign="top">
-
-**⚡ PulsepointBD**
-E-commerce platform for robotics parts, embedded systems, and maker tools — built end-to-end from storefront to backend.
-`React` `Node.js` `MongoDB`
-
-</td>
-<td width="33%" valign="top">
-
-**🤖 Autonomous Navigation Stack**
-Sensor fusion and navigation logic for autonomous rover traversal in unstructured terrain.
-`Python` `Computer Vision` `Robotics`
-
-</td>
-</tr>
-</table>
-
-<div align="right">
-
-*Add your repo links here — replace with your top 3-6 pinned projects for maximum impact.*
-
-</div>
 
 <br>
 
