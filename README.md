@@ -1,53 +1,97 @@
 <div align="center">
 
-# Shah Mehrab Hossain
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Shah%20Mehrab%20Hossain&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Robotics%20%26%20Embedded%20Systems%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Entrepreneur&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
-**Robotics & Embedded Systems Engineer · Full-Stack Developer · Entrepreneur**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+Autonomous+Rovers;Designing+Embedded+Hardware;Shipping+Full-Stack+Products" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Robotics+%26+Embedded+Systems+Engineer;Full-Stack+Developer;Technology+Entrepreneur" alt="Typing SVG" />
+<br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-mehrab-hossain-a6a1691ba)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shahm009)
-![Profile Views](https://komarev.com/ghpvc/?username=shahm009&color=blueviolet&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-mehrab-hossain-a6a1691ba)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahm009)
+![Profile Views](https://komarev.com/ghpvc/?username=shahm009&color=6C63FF&style=for-the-badge&label=Profile+Views)
 
 </div>
 
----
+<br>
 
-### About
+## About Me
 
-Computer Science & Engineering student building at the intersection of robotics, embedded systems, and software. Experience ranges from autonomous rover electronics to full-stack web platforms, with a focus on turning working prototypes into real products.
+Computer Science & Engineering student working at the intersection of **robotics, embedded systems, and software engineering**. My background spans autonomous rover electronics on internationally competitive teams to full-stack web platforms — with a consistent focus on turning working prototypes into shippable products.
 
 **Founder, PulsepointBD** — an e-commerce platform for robotics, embedded systems, and maker tools.
 
----
+<br>
 
-### Competitive Robotics
+## Competitive Robotics
 
-- **University Rover Challenge (URC)** — 2022, 2023, 2024 · Electrical Team Lead
-- **Anatolian Rover Challenge (aRC)** — 2022
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Focus areas: rover electronics, autonomous navigation, sensor fusion, embedded control systems, and PCB design/hardware prototyping.
+**University Rover Challenge (URC)**
+Electrical Team Lead
+`2022` · `2023` · `2024`
 
----
+</td>
+<td width="50%" valign="top">
 
-### Tech Stack
+**Anatolian Rover Challenge (aRC)**
+Team Member
+`2022`
 
-**Languages:** C · C++ · Python · Java · JavaScript
+</td>
+</tr>
+</table>
 
-**Embedded & Robotics:** Arduino · ESP32 · STM32 · Raspberry Pi · FreeRTOS · MicroPython
+**Core focus:** rover electronics · autonomous navigation · sensor fusion · embedded control systems · PCB design & hardware prototyping
 
-**Web Development:** React · Node.js · Express · MongoDB · TailwindCSS · REST APIs
+<br>
 
-**AI & Vision:** OpenCV · MediaPipe · Machine Learning
+## Tech Stack
 
-**Design & CAD:** Fusion 360 · SolidWorks · EasyEDA · Autodesk Eagle · Blender
+<table>
+<tr><td><b>Languages</b></td><td>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</td></tr>
+<tr><td><b>Embedded & Robotics</b></td><td>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-3C99C9?style=flat-square"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/FreeRTOS-00A2E3?style=flat-square"/>
+</td></tr>
+<tr><td><b>Web Development</b></td><td>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-001E2B?style=flat-square&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/>
+</td></tr>
+<tr><td><b>AI & Vision</b></td><td>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-007ACC?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
+</td></tr>
+<tr><td><b>Design & CAD</b></td><td>
+<img src="https://img.shields.io/badge/Fusion_360-FF6C37?style=flat-square"/>
+<img src="https://img.shields.io/badge/SolidWorks-FF1C0A?style=flat-square"/>
+<img src="https://img.shields.io/badge/EasyEDA-1765F6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>
+</td></tr>
+<tr><td><b>Tools</b></td><td>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+</td></tr>
+</table>
 
-**Tools:** Git · GitHub · VS Code
+<br>
 
----
-
-### GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -59,10 +103,17 @@ Focus areas: rover electronics, autonomous navigation, sensor fusion, embedded c
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/shah-mehrab-hossain-a6a1691ba) · [GitHub](https://github.com/shahm009)
+### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-mehrab-hossain-a6a1691ba)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahm009)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
 
 </div>
